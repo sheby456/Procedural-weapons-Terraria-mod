@@ -1,0 +1,17 @@
+Work in progress.
+
+This mod adds procedurally generated weapons.
+Their visuals and stats are randomly generated.
+
+Should work in multiplayer. Has not been extensively tested in multiplayer.
+
+Planned features:
+ - detail color
+ - more parts
+ - different weapon types
+ - different tiers
+ - custom weapon ai
+ - custom weapon tooltip
+ - ability to create custom weapons
+
+Inspired by Borderlands.

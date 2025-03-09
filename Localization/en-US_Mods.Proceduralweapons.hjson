@@ -1,0 +1,13 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	firearmproceduraltier1: {
+		DisplayName: tier 1 procedural weapon
+		Tooltip: This weapon is procedurally generated
+	}
+}
+
+Projectiles: {
+	gun.DisplayName: gun
+	projfirearmtier1.DisplayName: projfirearmtier1
+}

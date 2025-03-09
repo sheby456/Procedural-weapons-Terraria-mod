@@ -1,0 +1,3 @@
+displayName = Procedural weapons
+author = Energytim
+version = 0.2
